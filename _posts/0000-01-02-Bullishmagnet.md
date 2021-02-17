@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+56709 `<addr>` Tokyo
 Use the left arrow to go back!
